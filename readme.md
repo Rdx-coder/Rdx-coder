@@ -2,7 +2,6 @@
 
 ![DALL·E 2025-01-16 13 28 24 - A sleek and modern GitHub profile banner with the text 'Welcome to My GitHub Profile' and 'Rdx-Coder' in a stylish font  The design should feature a t](https://github.com/user-attachments/assets/87f6a4fd-92d7-41b1-bfd4-01bb389fb2f0)
 
-![Profile Banner]([https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile](https://drive.google.com/file/d/1CoJBXaqcPdUe4lc12augUuk-gAFi34k8/view))
 
 ## ✨ About Me
 
