@@ -45,8 +45,8 @@ Hello! I'm **Rahul Dangi**, a passionate **Software Developer** and **Tech Enthu
 ## 🔗 Connect with Me
 
 - **GitHub**: [Rahul Dangi](https://github.com/)
-- **Portfolio**: [DogCyclopedia.com](https://dogcyclopedia.com)
-- **LinkedIn**: [Rahul Dangi](https://www.linkedin.com/in/rahul-dangi/)
+- **Portfolio**: [rahuldangi.me](https://rahuldangi.me)
+- **LinkedIn**: [Rahul Dangi](https://linkedin.com/in/rahul-dangi8962)
 
 ---
 
