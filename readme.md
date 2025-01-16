@@ -56,14 +56,14 @@ Hello! I'm **Rahul Dangi**, a passionate **Software Developer** and **Tech Enthu
 - I'm passionate about empowering others through my **QuickJobApply App**.
 - When I'm not coding, I enjoy exploring innovative ideas and creative solutions for real-world problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=rahuldangi&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=rdx-coder&color=green)
 
 ---
 
 ### ✨ Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahuldangi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldangi&layout=compact&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdx-coder&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdx-coder&layout=compact&theme=radical)
 
 ---
 
