@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Dangi ✨
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner]([https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile](https://drive.google.com/file/d/1CoJBXaqcPdUe4lc12augUuk-gAFi34k8/view))
 
 ## ✨ About Me
 
