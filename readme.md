@@ -18,7 +18,7 @@ Hello! I'm **Rahul Dangi**, a passionate **Software Developer** and **Tech Enthu
 - Building the **QuickJobApply App** 🚀
   - A React Native app to simplify government job applications
 
-- Owner of **DogCyclopedia.com**
+- Wordpress **DogCyclopedia.com**
   - Dedicated to raising awareness about **dog breeds** with an SEO-optimized design
 
 ---
