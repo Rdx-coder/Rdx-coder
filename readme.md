@@ -1,73 +1,108 @@
-# Hi there, I'm Rahul Dangi ✨
-
-![DALL·E 2025-01-16 13 28 24 - A sleek and modern GitHub profile banner with the text 'Welcome to My GitHub Profile' and 'Rdx-Coder' in a stylish font  The design should feature a t](https://github.com/user-attachments/assets/87f6a4fd-92d7-41b1-bfd4-01bb389fb2f0)
-
-
-## ✨ About Me
-
-Hello! I'm **Rahul Dangi**, a passionate **Software Developer** and **Tech Enthusiast** pursuing **M.Tech in Computer Science** at **DAVV Indore**. I recently completed my **B.Tech in Computer Science** with a **CGPA of 7.6**. I specialize in building innovative, user-friendly, and SEO-optimized websites and applications. 
+# 👋 Hi, I'm Rahul Dangi  
+### 🚀 Full Stack Product Engineer | Backend & DevOps | Technical SEO Specialist  
 
 ---
 
-## 💼 Experience
+## 🧠 About Me
 
-- **Java Software Developer Intern** (6 months)
-  - Focused on **software development and maintenance**
-  - Proficient in **OOP**, **Exception Handling**, and **Collections**
+I’m a **Full Stack Product Engineer** with 3+ years of experience building scalable web platforms, enterprise backend systems, and SEO-optimized digital products.
 
-- Building the **QuickJobApply App** 🚀
-  - A React Native app to simplify government job applications
+Currently pursuing **M.Tech in Computer Science (DAVV Indore)** and previously completed **B.Tech (CGPA: 7.6)**.
 
-- Wordpress **DogCyclopedia.com**
-  - Dedicated to raising awareness about **dog breeds** with an SEO-optimized design
+I specialize in:
 
----
+- ⚙ Backend Engineering (Java, JSP/Servlet, Node.js)
+- 🌐 MERN Stack Development
+- ☁ Cloud Deployment (AWS, Docker, CI/CD)
+- 📈 Technical SEO & Performance Optimization
+- 🏗 Product Architecture & Workflow Automation
 
-## 🔄 Current Projects
-
-- Developing an e-commerce website, **Soytatva**, for selling **soya milk** and **soya paneer tofu**
-- Experimenting with **movie streaming platforms** to create engaging user experiences
+I don’t just build applications — I build production-ready systems.
 
 ---
 
-## ⚙ Core Skills
+## 💼 Professional Experience
 
-### Programming Languages & Frameworks
-- **Java**, **React.js**, **Node.js**, **React Native**, **PHP**
+### 🏢 Full Stack Developer – VVD Live (2025 – Present)
+- Building scalable MERN-based web platforms
+- Improving UI/UX, performance & Core Web Vitals
+- Implementing technical SEO & indexing strategies
+- Managing deployment workflows & system architecture
 
-### Tools & Technologies
-- **Git**, **WordPress**, **RapidAPI**, **SEO Optimization**
-
-### Web Development
-- **HTML**, **CSS**, **JavaScript**
-
----
-
-## 🔗 Connect with Me
-
-- **GitHub**: [Rahul Dangi](https://github.com/)
-- **Portfolio**: [rahuldangi.me](https://rahuldangi.me)
-- **LinkedIn**: [Rahul Dangi](https://linkedin.com/in/rahul-dangi8962)
+### 🖥 Java Developer Intern (6 Months)
+- Developed backend modules using Java, JSP & Servlets
+- Implemented MVC architecture & JDBC integration
+- Optimized SQL queries and database interactions
 
 ---
 
-## 🎨 Fun Facts
+## 🚀 Key Projects
 
-- I love combining creativity and technology to build seamless user experiences.
-- I'm passionate about empowering others through my **QuickJobApply App**.
-- When I'm not coding, I enjoy exploring innovative ideas and creative solutions for real-world problems.
+### 🔹 Kubergroup Stock Management System
+Enterprise inventory system built using:
+- Java (JSP/Servlet)
+- JDBC + MySQL
+- Docker containerization
+- AWS deployment + CI/CD
 
-![Profile Views](https://komarev.com/ghpvc/?username=rdx-coder&color=green)
+### 🔹 VVD Live Platform
+- MERN stack full-stack platform
+- REST API architecture
+- Performance optimization
+- Technical SEO implementation
+
+### 🔹 Shree Ram Tour & Travel
+- Business website with complete SEO strategy
+- Blog architecture & search optimization
+- Hosting, deployment & performance tuning
+
+### 🔹 DogCyclopedia (WordPress)
+- SEO-focused WordPress development
+- Content structure & outreach strategy
 
 ---
 
-### ✨ Stats
+## 🛠 Tech Stack
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdx-coder&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdx-coder&layout=compact&theme=radical)
+### 👨‍💻 Backend
+`Java` | `JSP/Servlet` | `JDBC` | `Node.js` | `Express.js` | `REST APIs`
+
+### 🎨 Frontend
+`React.js` | `JavaScript (ES6+)` | `HTML5` | `CSS3` | `Tailwind`
+
+### 🗄 Databases
+`MongoDB` | `MySQL` | `SQL Optimization`
+
+### ☁ DevOps & Cloud
+`AWS (EC2)` | `Docker` | `CI/CD` | `Git` | `Domain & Hosting`
+
+### 📈 Optimization
+`Technical SEO` | `Core Web Vitals` | `Performance Tuning` | `Automation`
 
 ---
 
-### ✨ Let's Collaborate
+## 📊 GitHub Stats
 
-Feel free to contribute or reach out for collaborations! Open to exploring new opportunities and ideas.
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdx-coder&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdx-coder&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Connect With Me
+
+- 🌐 Portfolio: https://rahuldangi.me  
+- 💼 LinkedIn: https://linkedin.com/in/rahul-dangi8962  
+- 📧 Open to collaborations & freelance projects  
+
+---
+
+## 🔥 What I Focus On
+
+- Building scalable backend systems  
+- Delivering production-ready deployments  
+- Improving performance & SEO visibility  
+- Turning business problems into technical solutions  
+
+---
+
+> “Code with structure. Deploy with confidence. Optimize for impact.”
