@@ -90,7 +90,7 @@ Enterprise inventory system built using:
 
 ## 📬 Connect With Me
 
-- 🌐 Portfolio: https://rahuldangi.me  
+- 🌐 Portfolio: https://rdx-coder.github.io/rahul
 - 💼 LinkedIn: https://linkedin.com/in/rahul-dangi8962  
 - 📧 Open to collaborations & freelance projects  
 
