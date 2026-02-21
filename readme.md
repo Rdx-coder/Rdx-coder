@@ -10,7 +10,8 @@
 
 ## 🧠 About Me
 
-I’m a **Full Stack Product Engineer** with 3+ years of experience building scalable web platforms, enterprise backend systems, and cloud-deployed applications.
+
+I’m a **Full Stack Product Engineer** with 2+ years of experience building scalable web platforms, enterprise backend systems, and cloud-deployed applications.
 
 🎓 M.Tech (Computer Science) – DAVV Indore  
 🎓 B.Tech (Computer Science) – CGPA 7.6  
@@ -92,7 +93,7 @@ SEO Strategy • Blog Architecture • Hosting & Deployment
 
 ## 📬 Connect With Me
 
-🌐 Portfolio: https://rahuldangi.me  
+🌐 Portfolio: https://rdx-coder.github.io/rahul
 💼 LinkedIn: https://linkedin.com/in/rahul-dangi8962  
 📧 Open for collaboration & freelance opportunities  
 
